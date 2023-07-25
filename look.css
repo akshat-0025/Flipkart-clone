@@ -1,0 +1,233 @@
+*{font-size: 1rem;
+    padding: 0px;
+    margin: 0px;
+    
+}
+#navbar{
+    background-color: #2874f0;
+    height: 56px;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: -124px;
+    
+}
+.nav-img{
+    
+    margin: 0px 194px;
+    line-height: 8px    ;
+}
+a{  
+    margin: -1px 0px 0px;
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+
+}
+a:hover{
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+#we{
+    
+    font-size: 0.3 px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#search-bar{
+    height:36px;
+    width: 421.66px;
+    background-color: #ffffff;
+    border: 2px solid #ffffff ;
+    
+    margin-left:-177px;
+    padding: 0px 16px;
+    display: flex;
+
+}
+
+
+button{
+    color: #2874f0  ;
+}
+#Login{
+    color:#2874f0;
+    background-color: white;
+    margin-left: 27px;
+    padding: 7px 40px;
+    font-weight: bold;
+    cursor: pointer;
+}
+#be{
+    margin: 0px 34px    ;
+    font-weight: bold;
+    cursor: pointer;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-bottom: 3px;
+}
+#be:hover{
+    text-decoration: none;
+}
+select{
+    color: #ffffff;
+    border: none;
+    background-color: #2874f0;
+    font-weight: bold;
+    cursor: pointer;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-bottom: 3px;
+}
+.search-icon{
+    color: #2874f0;
+    display: flex;
+    align-items: center;
+}
+.nav-cart{
+    color: #ffffff;
+    margin-left: 24px;
+    cursor: pointer;
+}
+main{
+    margin-top: -8px;
+    background-color: gainsboro;
+}
+#menu{
+    border: 6px solid gainsboro;
+    
+    margin: 6px;
+    background-color:#ffffff;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    padding: 4px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+h2{
+    text-align: center;
+    font-weight: 500;
+}
+.offers{
+   display: flex;
+   justify-content: space-evenly;
+   margin: 14px 6px;
+   background-color:antiquewhite;
+   border-radius: 6px;
+   padding: 34px;
+   height: 300px;
+    
+
+}
+.ji{
+    margin-top: 50px;
+    height: 120px;
+    width: 60px;
+    text-align: center;
+    background-color:#ffffff;
+    font-size: 4rem;
+    padding-top: 50px;
+    overflow: visible;
+}
+
+.class #img1{
+    height: 250px;
+    width: 50%;
+}
+.class #img2{
+    height: 250px;
+    width: 50%;
+}
+#content {
+    height: 280px;
+    display: flex;
+    align-items: center;
+    padding-top: 34px;
+    justify-content: space-between;
+    background-color:#ffffff;
+}
+#content:hover{
+    cursor: pointer;
+    
+}
+.best{
+    margin-left: 34px;
+    /* margin-top: -74px; */
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+button{
+    background-color: #2874f0;
+    border: none;
+    text-align: center;
+    width: 54px;
+    color: #ffffff;
+    margin-left: 46px;
+}
+button:hover{
+    
+    cursor: pointer;
+}
+.hed{
+    
+    text-align: center;
+    font-size: 0.85rem;
+    font-family:sans-serif;
+}
+.hed:hover{
+    font-size: 1rem;
+}
+.trim{
+    margin-top: -33px;
+}
+.price{
+    text-align: center;
+    color: #388e3c;
+    font-size: 0.9rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.more{
+    text-align: center;
+    color: #212121;
+    font-size: 0.85rem;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#neeche{
+    display: flex;
+    justify-content: space-evenly;
+    height: 200px;
+    background-color: #212121;
+    padding:40px 60px;
+}
+.he{
+    color: darkgrey;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.j{
+    padding-top: 24px;
+}
+a{
+    
+    color: #ffffff;
+    text-transform: none;
+    font-size: 0.7rem;
+    font-family: sans-serif;
+    font-weight: 400;
+    line-height: 24px;
+}
+.center{
+    margin-top: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    background-color: #212121;
+    height: 45px;
+    text-align: center;
+}
